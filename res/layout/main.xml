@@ -3,10 +3,38 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    >
-<TextView  
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/hello"
-    />
-</LinearLayout>
+    android:layout_weight="1">
+    <ImageView
+        android:src="@drawable/logo"
+        android:scaleType="fitXY"
+        android:id="@+id/logo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:drawable="@drawable/logo"
+        android:id="@+id/bands"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Bands" />
+    <Button
+        android:id="@+id/stages"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Stages" />
+    <Button
+        android:id="@+id/starred"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Starred" />
+    <Button
+        android:id="@+id/map"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Map" />
+    <Button
+        android:id="@+id/today"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Today" />
+  </LinearLayout>
+
