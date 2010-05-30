@@ -1,0 +1,4293 @@
+{
+
+	38: {
+		id: 38,
+		venueId: 2,
+		line1: ' The Flaming Lips performing Dark Side of the Moon featuring Stardeath and White Dwarfs',
+		line2: 'The Flaming Lips ft. Star Death & White Dwarfs',
+		start: '2010-06-12 00:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	318: {
+		id: 318,
+		venueId: 9,
+		line1: '180 South',
+		line2: '',
+		start: '2010-06-12 11:15:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	216: {
+		id: 216,
+		venueId: 11,
+		line1: 'African Drum and Dance by Mawre & Company',
+		line2: '',
+		start: '2010-06-10 17:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	219: {
+		id: 219,
+		venueId: 11,
+		line1: 'African Drum and Dance by Mawre & Company',
+		line2: '',
+		start: '2010-06-10 20:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	231: {
+		id: 231,
+		venueId: 11,
+		line1: 'African Drum and Dance by Mawre & Company',
+		line2: '',
+		start: '2010-06-11 18:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	252: {
+		id: 252,
+		venueId: 11,
+		line1: 'African Drum and Dance by Mawre & Company',
+		line2: '',
+		start: '2010-06-12 19:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	261: {
+		id: 261,
+		venueId: 11,
+		line1: 'African Drum and Dance by Mawre & Company',
+		line2: '',
+		start: '2010-06-13 12:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	125: {
+		id: 125,
+		venueId: 13,
+		line1: 'Afrojack',
+		line2: '',
+		start: '2010-06-11 01:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	22: {
+		id: 22,
+		venueId: 3,
+		line1: 'Against Me!',
+		line2: '',
+		start: '2010-06-13 15:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	204: {
+		id: 204,
+		venueId: 8,
+		line1: 'Alyssa Bonagura',
+		line2: '',
+		start: '2010-06-11 17:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	208: {
+		id: 208,
+		venueId: 8,
+		line1: 'Angus & Julia Stone',
+		line2: '',
+		start: '2010-06-12 19:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	97: {
+		id: 97,
+		venueId: 5,
+		line1: 'Aterciopelados',
+		line2: '',
+		start: '2010-06-12 15:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	157: {
+		id: 157,
+		venueId: 6,
+		line1: 'Aterciopelados',
+		line2: '',
+		start: '2010-06-12 18:15:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	119: {
+		id: 119,
+		venueId: 7,
+		line1: 'AZIZ ANSARI, Nick Kroll, Paul Scheer & Rob Huebel',
+		line2: '',
+		start: '2010-06-12 18:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	121: {
+		id: 121,
+		venueId: 7,
+		line1: 'AZIZ ANSARI, Nick Kroll, Paul Scheer & Rob Huebel',
+		line2: '',
+		start: '2010-06-13 13:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	120: {
+		id: 120,
+		venueId: 7,
+		line1: 'AZIZ ANSARI, Nick Kroll, Paul Scheer & Rob Huebel',
+		line2: '',
+		start: '2010-06-13 17:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	118: {
+		id: 118,
+		venueId: 7,
+		line1: 'AZIZ ANSARI, Nick Kroll, Paul Scheer & Rob Huebel',
+		line2: '',
+		start: '2010-06-13 19:15:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	72: {
+		id: 72,
+		venueId: 4,
+		line1: 'B.O.B.',
+		line2: '',
+		start: '2010-06-12 03:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	45: {
+		id: 45,
+		venueId: 2,
+		line1: 'Baaba Maal',
+		line2: '',
+		start: '2010-06-12 12:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	84: {
+		id: 84,
+		venueId: 5,
+		line1: 'Baroness',
+		line2: '',
+		start: '2010-06-10 17:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	9: {
+		id: 9,
+		venueId: 3,
+		line1: 'Bassnectar',
+		line2: '',
+		start: '2010-06-12 00:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'bassnectar.mp3',
+		minor: false
+	},
+
+	279: {
+		id: 279,
+		venueId: 13,
+		line1: 'Beatles Rock Band Experience',
+		line2: '',
+		start: '2010-06-11 16:00:00',
+		duration: 240,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	280: {
+		id: 280,
+		venueId: 13,
+		line1: 'Beatles Rock Band Experience',
+		line2: '',
+		start: '2010-06-12 16:00:00',
+		duration: 240,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	116: {
+		id: 116,
+		venueId: 7,
+		line1: 'BENSON / BURNHAM / GIRALDO ft Chelsea Peretti',
+		line2: '',
+		start: '2010-06-12 22:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	117: {
+		id: 117,
+		venueId: 7,
+		line1: 'BENSON / BURNHAM / GIRALDO ft Chelsea Peretti',
+		line2: '',
+		start: '2010-06-13 15:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	33: {
+		id: 33,
+		venueId: 1,
+		line1: 'Big Sam\'s Funky Nation',
+		line2: '',
+		start: '2010-06-12 13:15:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	153: {
+		id: 153,
+		venueId: 6,
+		line1: 'BIg Sam\'s Funky Nation',
+		line2: '',
+		start: '2010-06-12 15:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	81: {
+		id: 81,
+		venueId: 5,
+		line1: 'Blitzen Trapper',
+		line2: '',
+		start: '2010-06-10 22:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'blitzentrapper.mp3',
+		minor: false
+	},
+
+	103: {
+		id: 103,
+		venueId: 5,
+		line1: 'Blues Traveler',
+		line2: '',
+		start: '2010-06-13 15:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	168: {
+		id: 168,
+		venueId: 6,
+		line1: 'Blues Traveler',
+		line2: '',
+		start: '2010-06-13 18:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	100: {
+		id: 100,
+		venueId: 5,
+		line1: 'Bomba Estereo',
+		line2: '',
+		start: '2010-06-12 12:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	152: {
+		id: 152,
+		venueId: 6,
+		line1: 'Bomba Estereo',
+		line2: '',
+		start: '2010-06-12 14:15:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	217: {
+		id: 217,
+		venueId: 11,
+		line1: 'Bonnaroo Beard & Mustache Competition',
+		line2: '',
+		start: '2010-06-10 18:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	230: {
+		id: 230,
+		venueId: 11,
+		line1: 'Bonnaroo Beard & Mustache Competition',
+		line2: '',
+		start: '2010-06-11 18:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	250: {
+		id: 250,
+		venueId: 11,
+		line1: 'Bonnaroo Beard & Mustache Competition',
+		line2: '',
+		start: '2010-06-12 18:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	268: {
+		id: 268,
+		venueId: 11,
+		line1: 'Bonnaroo Beard & Mustache Competition',
+		line2: '',
+		start: '2010-06-13 18:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	203: {
+		id: 203,
+		venueId: 8,
+		line1: 'Boy Crisis',
+		line2: '',
+		start: '2010-06-11 15:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	62: {
+		id: 62,
+		venueId: 4,
+		line1: 'Brandi Carlile',
+		line2: '',
+		start: '2010-06-12 13:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'brandicarlisle.mp3',
+		minor: false
+	},
+
+	156: {
+		id: 156,
+		venueId: 6,
+		line1: 'Brandi Carlile',
+		line2: '',
+		start: '2010-06-12 17:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'brandicarlisle.mp3',
+		minor: true
+	},
+
+	170: {
+		id: 170,
+		venueId: 10,
+		line1: 'Caitlin Rose',
+		line2: '',
+		start: '2010-06-13 13:20:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	78: {
+		id: 78,
+		venueId: 2,
+		line1: 'Calexico',
+		line2: '',
+		start: '2010-06-13 13:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	56: {
+		id: 56,
+		venueId: 4,
+		line1: 'Carolina Chocolate Drops',
+		line2: '',
+		start: '2010-06-11 13:45:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'carolinachocolatedrops.mp3',
+		minor: false
+	},
+
+	143: {
+		id: 143,
+		venueId: 6,
+		line1: 'Carolina Chocolate Drops',
+		line2: '',
+		start: '2010-06-11 16:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'carolinachocolatedrops.mp3',
+		minor: true
+	},
+
+	19: {
+		id: 19,
+		venueId: 3,
+		line1: 'Circa Survive',
+		line2: '',
+		start: '2010-06-12 14:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	158: {
+		id: 158,
+		venueId: 6,
+		line1: 'Circa Survive',
+		line2: '',
+		start: '2010-06-12 19:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	155: {
+		id: 155,
+		venueId: 6,
+		line1: 'Clutch',
+		line2: '',
+		start: '2010-06-12 16:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'clutch.mp3',
+		minor: true
+	},
+
+	94: {
+		id: 94,
+		venueId: 5,
+		line1: 'Clutch',
+		line2: '',
+		start: '2010-06-13 00:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'clutch.mp3',
+		minor: false
+	},
+
+	110: {
+		id: 110,
+		venueId: 7,
+		line1: 'Conan O\'Brien',
+		line2: '',
+		start: '2010-06-11 13:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	114: {
+		id: 114,
+		venueId: 7,
+		line1: 'Conan O\'Brien',
+		line2: '',
+		start: '2010-06-12 13:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	309: {
+		id: 309,
+		venueId: 9,
+		line1: 'Conan O\'Brien (live feed from the Comedy Theater)',
+		line2: '',
+		start: '2010-06-11 13:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	319: {
+		id: 319,
+		venueId: 9,
+		line1: 'Conan O\'Brien (live feed from the Comedy Theater)',
+		line2: '',
+		start: '2010-06-12 13:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	176: {
+		id: 176,
+		venueId: 10,
+		line1: 'Constellations',
+		line2: '',
+		start: '2010-06-10 23:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	300: {
+		id: 300,
+		venueId: 9,
+		line1: 'Corey Haim Rules : Lost Boys',
+		line2: '',
+		start: '2010-06-10 13:45:00',
+		duration: 105,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	302: {
+		id: 302,
+		venueId: 9,
+		line1: 'Countdown to Zero',
+		line2: '',
+		start: '2010-06-10 18:00:00',
+		duration: 100,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	334: {
+		id: 334,
+		venueId: 9,
+		line1: 'Country First',
+		line2: '',
+		start: '2010-06-13 20:35:00',
+		duration: 20,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	66: {
+		id: 66,
+		venueId: 4,
+		line1: 'Cross Canadian Ragweed',
+		line2: '',
+		start: '2010-06-13 13:30:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'crosscanadianragweed.mp3',
+		minor: false
+	},
+
+	166: {
+		id: 166,
+		venueId: 6,
+		line1: 'Cross Canadian Ragweed',
+		line2: '',
+		start: '2010-06-13 17:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'crosscanadianragweed.mp3',
+		minor: true
+	},
+
+	27: {
+		id: 27,
+		venueId: 1,
+		line1: 'Damian Marley & Nas',
+		line2: '',
+		start: '2010-06-11 16:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'nasanddamien.mp3',
+		minor: false
+	},
+
+	14: {
+		id: 14,
+		venueId: 3,
+		line1: 'Dan Deacon Ensemble',
+		line2: '',
+		start: '2010-06-13 00:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	160: {
+		id: 160,
+		venueId: 6,
+		line1: 'Danny Barnes',
+		line2: '',
+		start: '2010-06-13 12:15:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	209: {
+		id: 209,
+		venueId: 8,
+		line1: 'Danny Barnes',
+		line2: '',
+		start: '2010-06-13 14:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	135: {
+		id: 135,
+		venueId: 13,
+		line1: 'Danny Howells',
+		line2: '',
+		start: '2010-06-12 23:00:00',
+		duration: 180,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	86: {
+		id: 86,
+		venueId: 5,
+		line1: 'Daryl Hall & Chromeo',
+		line2: '',
+		start: '2010-06-12 00:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'chromeo.mp3',
+		minor: false
+	},
+
+	34: {
+		id: 34,
+		venueId: 1,
+		line1: 'Dave Matthews Band',
+		line2: '',
+		start: '2010-06-13 21:00:00',
+		duration: 150,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	61: {
+		id: 61,
+		venueId: 4,
+		line1: 'Dave Rawlings Machine',
+		line2: '',
+		start: '2010-06-12 15:15:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	184: {
+		id: 184,
+		venueId: 10,
+		line1: 'Dawes',
+		line2: '',
+		start: '2010-06-11 20:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	149: {
+		id: 149,
+		venueId: 6,
+		line1: 'Dawes',
+		line2: '',
+		start: '2010-06-12 12:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	15: {
+		id: 15,
+		venueId: 3,
+		line1: 'Deadmau5',
+		line2: '',
+		start: '2010-06-13 02:15:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	53: {
+		id: 53,
+		venueId: 4,
+		line1: 'Diane Birch',
+		line2: '',
+		start: '2010-06-10 17:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'dianebirch.mp3',
+		minor: false
+	},
+
+	140: {
+		id: 140,
+		venueId: 6,
+		line1: 'Diane Birch',
+		line2: '',
+		start: '2010-06-11 12:45:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'dianebirch.mp3',
+		minor: true
+	},
+
+	122: {
+		id: 122,
+		venueId: 13,
+		line1: 'Dieselboy',
+		line2: '',
+		start: '2010-06-10 23:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	287: {
+		id: 287,
+		venueId: 12,
+		line1: 'DJ Equal',
+		line2: '',
+		start: '2010-06-10 17:00:00',
+		duration: 240,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	293: {
+		id: 293,
+		venueId: 12,
+		line1: 'DJ Equal',
+		line2: '',
+		start: '2010-06-12 00:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	296: {
+		id: 296,
+		venueId: 12,
+		line1: 'DJ Equal',
+		line2: '',
+		start: '2010-06-13 00:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	294: {
+		id: 294,
+		venueId: 12,
+		line1: 'DJ Logic',
+		line2: '',
+		start: '2010-06-12 02:00:00',
+		duration: 180,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	295: {
+		id: 295,
+		venueId: 12,
+		line1: 'DJ Logic',
+		line2: '',
+		start: '2010-06-12 16:00:00',
+		duration: 210,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	90: {
+		id: 90,
+		venueId: 5,
+		line1: 'Dr. Dog',
+		line2: '',
+		start: '2010-06-11 16:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	21: {
+		id: 21,
+		venueId: 3,
+		line1: 'Dropkick Murphys',
+		line2: '',
+		start: '2010-06-13 17:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	289: {
+		id: 289,
+		venueId: 12,
+		line1: 'Eclectic Method ',
+		line2: '',
+		start: '2010-06-10 23:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	292: {
+		id: 292,
+		venueId: 12,
+		line1: 'Eclectic Method ',
+		line2: '',
+		start: '2010-06-11 18:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	282: {
+		id: 282,
+		venueId: 13,
+		line1: 'Eclectic Method ',
+		line2: '',
+		start: '2010-06-11 20:15:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	283: {
+		id: 283,
+		venueId: 13,
+		line1: 'Eclectic Method ',
+		line2: '',
+		start: '2010-06-12 22:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	91: {
+		id: 91,
+		venueId: 5,
+		line1: 'Edward Sharpe & the Magnetic Zeros',
+		line2: '',
+		start: '2010-06-11 14:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	172: {
+		id: 172,
+		venueId: 10,
+		line1: 'Elizabeth Cook',
+		line2: '',
+		start: '2010-06-10 17:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	141: {
+		id: 141,
+		venueId: 6,
+		line1: 'Elizabeth Cook',
+		line2: '',
+		start: '2010-06-11 13:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	189: {
+		id: 189,
+		venueId: 10,
+		line1: 'Elmwood',
+		line2: '',
+		start: '2010-06-12 13:20:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	201: {
+		id: 201,
+		venueId: 10,
+		line1: 'Everest',
+		line2: '',
+		start: '2010-06-13 18:40:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	331: {
+		id: 331,
+		venueId: 9,
+		line1: 'Exit Through The Gift Shop',
+		line2: '',
+		start: '2010-06-13 15:45:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	85: {
+		id: 85,
+		venueId: 5,
+		line1: 'Fanfarlo',
+		line2: '',
+		start: '2010-06-10 16:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	326: {
+		id: 326,
+		venueId: 9,
+		line1: 'Footloose',
+		line2: '',
+		start: '2010-06-13 00:30:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	175: {
+		id: 175,
+		venueId: 10,
+		line1: 'Frank Turner',
+		line2: '',
+		start: '2010-06-10 22:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	171: {
+		id: 171,
+		venueId: 10,
+		line1: 'Frontier Ruckus',
+		line2: '',
+		start: '2010-06-10 16:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	87: {
+		id: 87,
+		venueId: 5,
+		line1: 'Galactic',
+		line2: '',
+		start: '2010-06-12 02:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	278: {
+		id: 278,
+		venueId: 13,
+		line1: 'Green Day Rock Band Experience',
+		line2: '',
+		start: '2010-06-10 16:00:00',
+		duration: 240,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	281: {
+		id: 281,
+		venueId: 13,
+		line1: 'Green Day Rock Band Experience',
+		line2: '',
+		start: '2010-06-13 16:00:00',
+		duration: 240,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	320: {
+		id: 320,
+		venueId: 9,
+		line1: 'Green Screens by Rock The Earth',
+		line2: 'Green Screens: Ryan Stasik (Ump. McGee)/Q&A Monnie Monteleone',
+		start: '2010-06-12 14:30:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	329: {
+		id: 329,
+		venueId: 9,
+		line1: 'Green Screens by Rock the Earth:  The Cove w/ John Popper, Joseph Chisolm, Charles Hamberton',
+		line2: '',
+		start: '2010-06-13 12:40:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	301: {
+		id: 301,
+		venueId: 9,
+		line1: 'Green Screens presented by Rock the Earth: Gasland / The World Ocean: Trashed',
+		line2: '',
+		start: '2010-06-10 15:30:00',
+		duration: 150,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	311: {
+		id: 311,
+		venueId: 9,
+		line1: 'Green Screens presented by Rock the Earth: Sacred Earth / Good Food Q&A: Sarah Bush and Anne Bedarf',
+		line2: 'Rock The Earth Q&A: Sarah Bush and Anne Bedarf',
+		start: '2010-06-11 16:45:00',
+		duration: 135,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	93: {
+		id: 93,
+		venueId: 5,
+		line1: 'GWAR',
+		line2: '',
+		start: '2010-06-13 02:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'gwar.mp3',
+		minor: false
+	},
+
+	213: {
+		id: 213,
+		venueId: 11,
+		line1: 'Gypsy Hands Tribal Dance',
+		line2: '',
+		start: '2010-06-10 13:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	227: {
+		id: 227,
+		venueId: 11,
+		line1: 'Gypsy Hands Tribal Dance',
+		line2: '',
+		start: '2010-06-11 12:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	275: {
+		id: 275,
+		venueId: 11,
+		line1: 'Gypsy Hands Tribal Dance',
+		line2: '',
+		start: '2010-06-12 00:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	256: {
+		id: 256,
+		venueId: 11,
+		line1: 'Gypsy Hands Tribal Dance',
+		line2: '',
+		start: '2010-06-13 00:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	270: {
+		id: 270,
+		venueId: 11,
+		line1: 'Gypsy Hands Tribal Dance',
+		line2: '',
+		start: '2010-06-13 19:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	222: {
+		id: 222,
+		venueId: 11,
+		line1: 'Gypsy Hands Tribal Dance',
+		line2: '',
+		start: '2010-06-13 23:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	288: {
+		id: 288,
+		venueId: 12,
+		line1: 'Gypsyphonic Disko',
+		line2: '',
+		start: '2010-06-10 21:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	194: {
+		id: 194,
+		venueId: 10,
+		line1: 'Harper Simon',
+		line2: '',
+		start: '2010-06-12 20:30:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	162: {
+		id: 162,
+		venueId: 6,
+		line1: 'Harper Simon',
+		line2: '',
+		start: '2010-06-13 13:45:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	124: {
+		id: 124,
+		venueId: 13,
+		line1: 'Hercules and Love Affair (DJ Set)',
+		line2: '',
+		start: '2010-06-12 00:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	4: {
+		id: 4,
+		venueId: 3,
+		line1: 'Here We Go Magic',
+		line2: '',
+		start: '2010-06-10 18:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	233: {
+		id: 233,
+		venueId: 11,
+		line1: 'Here\'s To the Long Haul',
+		line2: '',
+		start: '2010-06-11 21:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	57: {
+		id: 57,
+		venueId: 4,
+		line1: 'Hot Rize',
+		line2: '',
+		start: '2010-06-11 15:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	147: {
+		id: 147,
+		venueId: 6,
+		line1: 'Hot Rize',
+		line2: '',
+		start: '2010-06-11 18:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	210: {
+		id: 210,
+		venueId: 8,
+		line1: 'How I Became The Bomb',
+		line2: '',
+		start: '2010-06-13 17:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	212: {
+		id: 212,
+		venueId: 11,
+		line1: 'Hunab Kru Breakdancing',
+		line2: '',
+		start: '2010-06-10 12:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	221: {
+		id: 221,
+		venueId: 11,
+		line1: 'Hunab Kru Breakdancing',
+		line2: '',
+		start: '2010-06-10 21:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	238: {
+		id: 238,
+		venueId: 11,
+		line1: 'Hunab Kru Breakdancing',
+		line2: '',
+		start: '2010-06-11 22:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	243: {
+		id: 243,
+		venueId: 11,
+		line1: 'Hunab Kru Breakdancing',
+		line2: '',
+		start: '2010-06-12 12:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	255: {
+		id: 255,
+		venueId: 11,
+		line1: 'Hunab Kru Breakdancing',
+		line2: '',
+		start: '2010-06-12 22:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	269: {
+		id: 269,
+		venueId: 11,
+		line1: 'Hunab Kru Breakdancing',
+		line2: '',
+		start: '2010-06-13 18:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	284: {
+		id: 284,
+		venueId: 8,
+		line1: 'Imelda May',
+		line2: '',
+		start: '2010-06-12 12:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	154: {
+		id: 154,
+		venueId: 6,
+		line1: 'Imelda May',
+		line2: '',
+		start: '2010-06-12 15:45:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	330: {
+		id: 330,
+		venueId: 9,
+		line1: 'Infantree:  Food for Thought',
+		line2: '',
+		start: '2010-06-13 14:40:00',
+		duration: 65,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	317: {
+		id: 317,
+		venueId: 9,
+		line1: 'Inglorious Basterds',
+		line2: '',
+		start: '2010-06-12 02:20:00',
+		duration: 160,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	335: {
+		id: 335,
+		venueId: 9,
+		line1: 'Inglorious Basterds',
+		line2: '',
+		start: '2010-06-13 20:55:00',
+		duration: 160,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	105: {
+		id: 105,
+		venueId: 5,
+		line1: 'Ingrid Michaelson',
+		line2: '',
+		start: '2010-06-13 12:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'ingridmichaelson.mp3',
+		minor: false
+	},
+
+	18: {
+		id: 18,
+		venueId: 3,
+		line1: 'Isis',
+		line2: '',
+		start: '2010-06-12 15:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	106: {
+		id: 106,
+		venueId: 7,
+		line1: 'J.B. SMOOVE with Julian McCullough & Rob Cantrell',
+		line2: '',
+		start: '2010-06-10 18:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	107: {
+		id: 107,
+		venueId: 7,
+		line1: 'J.B. SMOOVE with Julian McCullough & Rob Cantrell',
+		line2: '',
+		start: '2010-06-10 20:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	215: {
+		id: 215,
+		venueId: 11,
+		line1: 'Jaik Willis',
+		line2: '',
+		start: '2010-06-10 15:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	67: {
+		id: 67,
+		venueId: 4,
+		line1: 'Jamey Johnson',
+		line2: '',
+		start: '2010-06-13 14:45:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	24: {
+		id: 24,
+		venueId: 3,
+		line1: 'Japandroids',
+		line2: '',
+		start: '2010-06-13 12:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'japandriods.mp3',
+		minor: false
+	},
+
+	290: {
+		id: 290,
+		venueId: 12,
+		line1: 'Jared Dietch',
+		line2: '',
+		start: '2010-06-11 01:00:00',
+		duration: 180,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	306: {
+		id: 306,
+		venueId: 9,
+		line1: 'Jaws 3',
+		line2: '',
+		start: '2010-06-11 02:00:00',
+		duration: 105,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	12: {
+		id: 12,
+		venueId: 3,
+		line1: 'Jay Electronica',
+		line2: '',
+		start: '2010-06-11 13:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'jayelectronica.mp3',
+		minor: false
+	},
+
+	29: {
+		id: 29,
+		venueId: 1,
+		line1: 'Jay-Z',
+		line2: '',
+		start: '2010-06-12 23:30:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	16: {
+		id: 16,
+		venueId: 3,
+		line1: 'Jeff Beck',
+		line2: '',
+		start: '2010-06-12 19:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	113: {
+		id: 113,
+		venueId: 7,
+		line1: 'JEFFREY ROSS Roasts Bonnaroo with Chelsea Peretti ',
+		line2: '',
+		start: '2010-06-12 00:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	115: {
+		id: 115,
+		venueId: 7,
+		line1: 'JEFFREY ROSS Roasts Bonnaroo with Chelsea Peretti ',
+		line2: '',
+		start: '2010-06-12 16:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	206: {
+		id: 206,
+		venueId: 10,
+		line1: 'Jessie Baylin',
+		line2: '',
+		start: '2010-06-11 12:00:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	202: {
+		id: 202,
+		venueId: 8,
+		line1: 'Jill Andrews',
+		line2: '',
+		start: '2010-06-11 13:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	253: {
+		id: 253,
+		venueId: 11,
+		line1: 'Jill Andrews',
+		line2: '',
+		start: '2010-06-12 21:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	32: {
+		id: 32,
+		venueId: 1,
+		line1: 'Jimmy Cliff',
+		line2: '',
+		start: '2010-06-12 15:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	169: {
+		id: 169,
+		venueId: 10,
+		line1: 'Joe Robinson',
+		line2: '',
+		start: '2010-06-10 13:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	165: {
+		id: 165,
+		venueId: 6,
+		line1: 'John Butler',
+		line2: '',
+		start: '2010-06-13 16:15:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	37: {
+		id: 37,
+		venueId: 1,
+		line1: 'John Butler Trio',
+		line2: '',
+		start: '2010-06-13 13:45:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	36: {
+		id: 36,
+		venueId: 1,
+		line1: 'John Fogerty',
+		line2: '',
+		start: '2010-06-13 16:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	64: {
+		id: 64,
+		venueId: 4,
+		line1: 'John Prine',
+		line2: '',
+		start: '2010-06-12 18:45:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'johnprine.mp3',
+		minor: false
+	},
+
+	218: {
+		id: 218,
+		venueId: 11,
+		line1: 'Jonathan Sexton & The Big Love Choir',
+		line2: '',
+		start: '2010-06-10 19:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	195: {
+		id: 195,
+		venueId: 10,
+		line1: 'Jonathan Sexton & The Big Love Choir',
+		line2: '',
+		start: '2010-06-12 23:00:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	188: {
+		id: 188,
+		venueId: 10,
+		line1: 'Jonathan Tyler & The Northern Lights',
+		line2: '',
+		start: '2010-06-12 12:00:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	229: {
+		id: 229,
+		venueId: 11,
+		line1: 'Josh Phillips Folk Festival',
+		line2: '',
+		start: '2010-06-11 17:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	271: {
+		id: 271,
+		venueId: 11,
+		line1: 'Josh Phillips Folk Festival',
+		line2: '',
+		start: '2010-06-13 21:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	177: {
+		id: 177,
+		venueId: 10,
+		line1: 'Joshua James',
+		line2: '',
+		start: '2010-06-11 01:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	232: {
+		id: 232,
+		venueId: 11,
+		line1: 'Joshua James',
+		line2: '',
+		start: '2010-06-11 20:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	92: {
+		id: 92,
+		venueId: 3,
+		line1: 'Julia Nunes',
+		line2: '',
+		start: '2010-06-11 12:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'julianunes.mp3',
+		minor: false
+	},
+
+	151: {
+		id: 151,
+		venueId: 6,
+		line1: 'Julia Nunes',
+		line2: '',
+		start: '2010-06-12 13:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'julianunes.mp3',
+		minor: true
+	},
+
+	133: {
+		id: 133,
+		venueId: 13,
+		line1: 'Kaskade',
+		line2: '',
+		start: '2010-06-13 02:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	180: {
+		id: 180,
+		venueId: 10,
+		line1: 'Kevin Devine',
+		line2: '',
+		start: '2010-06-11 14:40:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	71: {
+		id: 71,
+		venueId: 4,
+		line1: 'Kid Cudi',
+		line2: '',
+		start: '2010-06-12 02:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	25: {
+		id: 25,
+		venueId: 1,
+		line1: 'Kings of Leon',
+		line2: '',
+		start: '2010-06-11 21:30:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'kingsofleon.mp3',
+		minor: false
+	},
+
+	68: {
+		id: 68,
+		venueId: 4,
+		line1: 'Kris Kristofferson',
+		line2: '',
+		start: '2010-06-13 16:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	123: {
+		id: 123,
+		venueId: 13,
+		line1: 'LA Riots',
+		line2: '',
+		start: '2010-06-11 00:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	60: {
+		id: 60,
+		venueId: 4,
+		line1: 'Langhorne Slim',
+		line2: '',
+		start: '2010-06-12 12:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	8: {
+		id: 8,
+		venueId: 3,
+		line1: 'LCD Soundsystem',
+		line2: '',
+		start: '2010-06-12 02:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	132: {
+		id: 132,
+		venueId: 13,
+		line1: 'Lee Burridge',
+		line2: '',
+		start: '2010-06-12 04:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	88: {
+		id: 88,
+		venueId: 5,
+		line1: 'Les Claypool',
+		line2: '',
+		start: '2010-06-11 19:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'lesclaypool.mp3',
+		minor: false
+	},
+
+	272: {
+		id: 272,
+		venueId: 10,
+		line1: 'Lissie',
+		line2: '',
+		start: '2010-06-13 01:30:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	128: {
+		id: 128,
+		venueId: 13,
+		line1: 'Live screening of Conan O\'Brien in Comedy Theatre',
+		line2: '',
+		start: '2010-06-11 13:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	52: {
+		id: 52,
+		venueId: 4,
+		line1: 'Local Natives',
+		line2: '',
+		start: '2010-06-10 19:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	96: {
+		id: 96,
+		venueId: 5,
+		line1: 'Los Amigos Invisibles',
+		line2: '',
+		start: '2010-06-12 17:15:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	80: {
+		id: 80,
+		venueId: 5,
+		line1: 'Lotus',
+		line2: '',
+		start: '2010-06-10 23:45:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	148: {
+		id: 148,
+		venueId: 6,
+		line1: 'Lotus',
+		line2: '',
+		start: '2010-06-11 19:15:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	328: {
+		id: 328,
+		venueId: 9,
+		line1: 'Love Noise',
+		line2: '',
+		start: '2010-06-13 11:30:00',
+		duration: 65,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	23: {
+		id: 23,
+		venueId: 3,
+		line1: 'Lucero',
+		line2: '',
+		start: '2010-06-13 14:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	83: {
+		id: 83,
+		venueId: 5,
+		line1: 'Manchester Orchestra',
+		line2: '',
+		start: '2010-06-10 19:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	108: {
+		id: 108,
+		venueId: 7,
+		line1: 'MARGARET CHO with Baron Vaughn & John Roberts',
+		line2: '',
+		start: '2010-06-10 22:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	109: {
+		id: 109,
+		venueId: 7,
+		line1: 'MARGARET CHO with Baron Vaughn & John Roberts',
+		line2: '',
+		start: '2010-06-11 00:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	111: {
+		id: 111,
+		venueId: 7,
+		line1: 'MARGARET CHO with Baron Vaughn & John Roberts',
+		line2: '',
+		start: '2010-06-11 15:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	112: {
+		id: 112,
+		venueId: 7,
+		line1: 'MARGARET CHO with Baron Vaughn & John Roberts',
+		line2: '',
+		start: '2010-06-11 17:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	131: {
+		id: 131,
+		venueId: 13,
+		line1: 'Mark Knight',
+		line2: '',
+		start: '2010-06-12 03:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	104: {
+		id: 104,
+		venueId: 5,
+		line1: 'Martin Sexton',
+		line2: '',
+		start: '2010-06-13 13:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	164: {
+		id: 164,
+		venueId: 6,
+		line1: 'Martin Sexton',
+		line2: '',
+		start: '2010-06-13 15:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	2: {
+		id: 2,
+		venueId: 3,
+		line1: 'Mayer Hawthorne & the County',
+		line2: '',
+		start: '2010-06-10 22:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'mayerhawthorne.mp3',
+		minor: false
+	},
+
+	163: {
+		id: 163,
+		venueId: 6,
+		line1: 'Medeski Martin & Wood',
+		line2: 'MMW',
+		start: '2010-06-13 14:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	101: {
+		id: 101,
+		venueId: 5,
+		line1: 'Medeski Martin & Wood',
+		line2: '',
+		start: '2010-06-13 18:15:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	99: {
+		id: 99,
+		venueId: 5,
+		line1: 'Mexican Institute of Sound',
+		line2: '',
+		start: '2010-06-12 13:15:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	39: {
+		id: 39,
+		venueId: 2,
+		line1: 'Michael Franti & Spearhead',
+		line2: '',
+		start: '2010-06-11 20:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'michaelfranti.mp3',
+		minor: false
+	},
+
+	28: {
+		id: 28,
+		venueId: 1,
+		line1: 'Mighty Clouds of Joy',
+		line2: '',
+		start: '2010-06-11 14:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	5: {
+		id: 5,
+		venueId: 3,
+		line1: 'Miike Snow',
+		line2: '',
+		start: '2010-06-10 19:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	211: {
+		id: 211,
+		venueId: 8,
+		line1: 'Mike Posner',
+		line2: '',
+		start: '2010-06-13 20:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	69: {
+		id: 69,
+		venueId: 4,
+		line1: 'Miranda Lambert',
+		line2: '',
+		start: '2010-06-13 18:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	239: {
+		id: 239,
+		venueId: 11,
+		line1: 'Miss Lolly Pop\'s Burlesque Coterie',
+		line2: '',
+		start: '2010-06-12 01:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	257: {
+		id: 257,
+		venueId: 11,
+		line1: 'Miss Lolly Pop\'s Burlesque Coterie',
+		line2: '',
+		start: '2010-06-13 01:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	65: {
+		id: 65,
+		venueId: 4,
+		line1: 'Monte Montgomery',
+		line2: '',
+		start: '2010-06-13 12:15:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'montemontgomery.mp3',
+		minor: false
+	},
+
+	167: {
+		id: 167,
+		venueId: 6,
+		line1: 'Monte Montgomery',
+		line2: '',
+		start: '2010-06-13 17:45:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'montemontgomery.mp3',
+		minor: false
+	},
+
+	207: {
+		id: 207,
+		venueId: 8,
+		line1: 'Morning Teleportation',
+		line2: '',
+		start: '2010-06-12 17:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	291: {
+		id: 291,
+		venueId: 12,
+		line1: 'Motion Potion ',
+		line2: '',
+		start: '2010-06-11 16:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	297: {
+		id: 297,
+		venueId: 12,
+		line1: 'Motion Potion',
+		line2: '',
+		start: '2010-06-13 02:00:00',
+		duration: 180,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	298: {
+		id: 298,
+		venueId: 12,
+		line1: 'Motion Potion',
+		line2: '',
+		start: '2010-06-13 16:00:00',
+		duration: 180,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	63: {
+		id: 63,
+		venueId: 4,
+		line1: 'Mumford & Sons',
+		line2: '',
+		start: '2010-06-12 17:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	276: {
+		id: 276,
+		venueId: 13,
+		line1: 'NBA Finals',
+		line2: '',
+		start: '2010-06-10 20:00:00',
+		duration: 180,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	277: {
+		id: 277,
+		venueId: 13,
+		line1: 'NBA Finals',
+		line2: '',
+		start: '2010-06-13 20:00:00',
+		duration: 180,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	82: {
+		id: 82,
+		venueId: 5,
+		line1: 'NeedtoBreathe',
+		line2: '',
+		start: '2010-06-10 20:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'needtobreathe.mp3',
+		minor: false
+	},
+
+	51: {
+		id: 51,
+		venueId: 4,
+		line1: 'Neon Indian',
+		line2: '',
+		start: '2010-06-10 20:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	181: {
+		id: 181,
+		venueId: 10,
+		line1: 'Nneka',
+		line2: '',
+		start: '2010-06-11 16:00:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	197: {
+		id: 197,
+		venueId: 10,
+		line1: 'Non-Commissioned Officers',
+		line2: '',
+		start: '2010-06-10 14:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	46: {
+		id: 46,
+		venueId: 2,
+		line1: 'Norah Jones',
+		line2: '',
+		start: '2010-06-12 14:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	98: {
+		id: 98,
+		venueId: 5,
+		line1: 'Nortec Collective presents: Bostich and Fussible',
+		line2: '',
+		start: '2010-06-12 14:30:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	251: {
+		id: 251,
+		venueId: 11,
+		line1: 'Ogya',
+		line2: '',
+		start: '2010-06-12 18:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	260: {
+		id: 260,
+		venueId: 11,
+		line1: 'Ogya',
+		line2: '',
+		start: '2010-06-13 11:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	89: {
+		id: 89,
+		venueId: 5,
+		line1: 'OK Go',
+		line2: '',
+		start: '2010-06-11 17:45:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'okgo.mp3',
+		minor: false
+	},
+
+	161: {
+		id: 161,
+		venueId: 6,
+		line1: 'Orgone',
+		line2: '',
+		start: '2010-06-13 13:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	273: {
+		id: 273,
+		venueId: 10,
+		line1: 'Orgone',
+		line2: '',
+		start: '2010-06-13 19:50:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	95: {
+		id: 95,
+		venueId: 5,
+		line1: 'Ozomatli',
+		line2: '',
+		start: '2010-06-12 19:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	191: {
+		id: 191,
+		venueId: 10,
+		line1: 'Paper Tongues',
+		line2: '',
+		start: '2010-06-12 16:00:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	75: {
+		id: 75,
+		venueId: 2,
+		line1: 'Phoenix',
+		line2: '',
+		start: '2010-06-13 19:15:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	55: {
+		id: 55,
+		venueId: 4,
+		line1: 'Punch Brothers featuring Chris Thile',
+		line2: '',
+		start: '2010-06-11 12:15:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	145: {
+		id: 145,
+		venueId: 6,
+		line1: 'Punch Brothers featuring Chris Thile',
+		line2: 'Punch Brothers',
+		start: '2010-06-11 15:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	44: {
+		id: 44,
+		venueId: 2,
+		line1: 'Rebelution ',
+		line2: '',
+		start: '2010-06-12 11:30:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'rebelution.mp3',
+		minor: false
+	},
+
+	192: {
+		id: 192,
+		venueId: 10,
+		line1: 'Red Cortez',
+		line2: '',
+		start: '2010-06-12 17:20:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	77: {
+		id: 77,
+		venueId: 2,
+		line1: 'Regina Spektor',
+		line2: '',
+		start: '2010-06-13 15:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	224: {
+		id: 224,
+		venueId: 11,
+		line1: 'Restorative Yoga by Gypsy Hands',
+		line2: '',
+		start: '2010-06-11 09:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	240: {
+		id: 240,
+		venueId: 11,
+		line1: 'Restorative Yoga by Gypsy Hands',
+		line2: '',
+		start: '2010-06-12 09:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	258: {
+		id: 258,
+		venueId: 11,
+		line1: 'Restorative Yoga by Gypsy Hands',
+		line2: '',
+		start: '2010-06-13 09:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	223: {
+		id: 223,
+		venueId: 11,
+		line1: 'RhythMystik Tribal Percussion',
+		line2: '',
+		start: '2010-06-11 00:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	246: {
+		id: 246,
+		venueId: 11,
+		line1: 'RhythMystik Tribal Percussion',
+		line2: '',
+		start: '2010-06-12 15:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	20: {
+		id: 20,
+		venueId: 3,
+		line1: 'Rise Against',
+		line2: '',
+		start: '2010-06-13 18:45:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'riseagainst.mp3',
+		minor: false
+	},
+
+	266: {
+		id: 266,
+		venueId: 11,
+		line1: 'Rock The Earth Interview & Performance Danny Barnes',
+		line2: '',
+		start: '2010-06-13 17:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	286: {
+		id: 286,
+		venueId: 11,
+		line1: 'Rock the Earth Interview & Performance Diane Birch',
+		line2: '',
+		start: '2010-06-11 15:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	264: {
+		id: 264,
+		venueId: 11,
+		line1: 'Rock The Earth Interview & Performance Here\'s to the Long Haul',
+		line2: '',
+		start: '2010-06-13 15:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	248: {
+		id: 248,
+		venueId: 11,
+		line1: 'Rock The Earth Interview & Performance Julia Nunes',
+		line2: '',
+		start: '2010-06-12 17:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	237: {
+		id: 237,
+		venueId: 11,
+		line1: 'Rock the Earth Interview & Performance Special Guest',
+		line2: '',
+		start: '2010-06-11 16:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	265: {
+		id: 265,
+		venueId: 11,
+		line1: 'Rock the Earth Interview & Performance Special Guest',
+		line2: '',
+		start: '2010-06-13 16:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	247: {
+		id: 247,
+		venueId: 11,
+		line1: 'Rock the Earth Interview Baaba Maal',
+		line2: '',
+		start: '2010-06-12 16:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	285: {
+		id: 285,
+		venueId: 11,
+		line1: 'Rock the Earth Panel Discussion "Social Change Through Music"',
+		line2: '',
+		start: '2010-06-11 13:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	235: {
+		id: 235,
+		venueId: 11,
+		line1: 'Rock the Earth Panel Discussion "Social Change Through Music"',
+		line2: '',
+		start: '2010-06-11 15:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	244: {
+		id: 244,
+		venueId: 11,
+		line1: 'Rock the Earth Panel Discussion "Social Change Through Music"',
+		line2: '',
+		start: '2010-06-12 13:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	262: {
+		id: 262,
+		venueId: 11,
+		line1: 'Rock the Earth Panel Discussion "Social Change Through Music"',
+		line2: '',
+		start: '2010-06-13 13:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	187: {
+		id: 187,
+		venueId: 10,
+		line1: 'Royal Bangs',
+		line2: '',
+		start: '2010-06-12 01:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	312: {
+		id: 312,
+		venueId: 9,
+		line1: 'Salva Tres Palmas',
+		line2: '',
+		start: '2010-06-11 20:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	205: {
+		id: 205,
+		venueId: 8,
+		line1: 'Samantha Crain',
+		line2: '',
+		start: '2010-06-11 20:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	173: {
+		id: 173,
+		venueId: 10,
+		line1: 'Sarah Jarosz',
+		line2: '',
+		start: '2010-06-10 19:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	126: {
+		id: 126,
+		venueId: 13,
+		line1: 'Sharam ',
+		line2: '',
+		start: '2010-06-11 02:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	315: {
+		id: 315,
+		venueId: 9,
+		line1: 'Shaun of the Dead',
+		line2: '',
+		start: '2010-06-11 23:00:00',
+		duration: 100,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	10: {
+		id: 10,
+		venueId: 3,
+		line1: 'She & Him',
+		line2: '',
+		start: '2010-06-11 17:00:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'sheandhim.mp3',
+		minor: false
+	},
+
+	226: {
+		id: 226,
+		venueId: 11,
+		line1: 'Shiloh Circle',
+		line2: '',
+		start: '2010-06-11 11:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	299: {
+		id: 299,
+		venueId: 9,
+		line1: 'Short Circuit',
+		line2: '',
+		start: '2010-06-10 12:00:00',
+		duration: 105,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	327: {
+		id: 327,
+		venueId: 9,
+		line1: 'Short Circuit',
+		line2: '',
+		start: '2010-06-13 02:30:00',
+		duration: 100,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	225: {
+		id: 225,
+		venueId: 11,
+		line1: 'Somatherapy * by Sequatchie Valley Institute ',
+		line2: '',
+		start: '2010-06-11 10:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	259: {
+		id: 259,
+		venueId: 11,
+		line1: 'Somatherapy * by Sequatchie Valley Institute ',
+		line2: '',
+		start: '2010-06-13 10:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	200: {
+		id: 200,
+		venueId: 10,
+		line1: 'Space Capone',
+		line2: '',
+		start: '2010-06-13 17:20:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	241: {
+		id: 241,
+		venueId: 11,
+		line1: 'Stardust and the Wreckage** by Sequatchie Valley Institute ',
+		line2: '',
+		start: '2010-06-12 10:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	142: {
+		id: 142,
+		venueId: 6,
+		line1: 'Steep Canyon Rangers',
+		line2: '',
+		start: '2010-06-11 14:15:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	59: {
+		id: 59,
+		venueId: 4,
+		line1: 'Steve Martin & The Steep Canyon Rangers',
+		line2: '',
+		start: '2010-06-11 19:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	30: {
+		id: 30,
+		venueId: 1,
+		line1: 'Stevie Wonder',
+		line2: '',
+		start: '2010-06-12 20:30:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	199: {
+		id: 199,
+		venueId: 10,
+		line1: 'Supagroup',
+		line2: '',
+		start: '2010-06-13 16:00:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	308: {
+		id: 308,
+		venueId: 9,
+		line1: 'Superfly',
+		line2: '',
+		start: '2010-06-11 11:15:00',
+		duration: 105,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	198: {
+		id: 198,
+		venueId: 10,
+		line1: 'Tamarama',
+		line2: '',
+		start: '2010-06-13 14:40:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	26: {
+		id: 26,
+		venueId: 1,
+		line1: 'Tenacious D',
+		line2: '',
+		start: '2010-06-11 18:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	47: {
+		id: 47,
+		venueId: 2,
+		line1: 'The Avett Brothers',
+		line2: '',
+		start: '2010-06-12 16:45:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	185: {
+		id: 185,
+		venueId: 10,
+		line1: 'The Bakerton Group',
+		line2: '',
+		start: '2010-06-11 22:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	70: {
+		id: 70,
+		venueId: 4,
+		line1: 'The Black Keys',
+		line2: '',
+		start: '2010-06-12 00:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'blackkeys.mp3',
+		minor: false
+	},
+
+	182: {
+		id: 182,
+		venueId: 10,
+		line1: 'The Bridge',
+		line2: '',
+		start: '2010-06-11 17:20:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	129: {
+		id: 129,
+		venueId: 13,
+		line1: 'The Crystal Method',
+		line2: '',
+		start: '2010-06-12 01:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	31: {
+		id: 31,
+		venueId: 1,
+		line1: 'The Dead Weather',
+		line2: '',
+		start: '2010-06-12 18:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	323: {
+		id: 323,
+		venueId: 9,
+		line1: 'The Decemberists:  Here Comes The Waves',
+		line2: '',
+		start: '2010-06-12 19:50:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	196: {
+		id: 196,
+		venueId: 10,
+		line1: 'The Devil Makes Three',
+		line2: '',
+		start: '2010-06-13 12:00:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	144: {
+		id: 144,
+		venueId: 6,
+		line1: 'The Disco Biscuits',
+		line2: '',
+		start: '2010-06-11 16:45:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	74: {
+		id: 74,
+		venueId: 4,
+		line1: 'The Disco Biscuits',
+		line2: '',
+		start: '2010-06-13 02:45:00',
+		duration: 150,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	3: {
+		id: 3,
+		venueId: 3,
+		line1: 'The Dodos',
+		line2: '',
+		start: '2010-06-10 21:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	7: {
+		id: 7,
+		venueId: 3,
+		line1: 'The Entrance Band',
+		line2: '',
+		start: '2010-06-10 16:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'theentranceband.mp3',
+		minor: false
+	},
+
+	139: {
+		id: 139,
+		venueId: 6,
+		line1: 'The Entrance Band ',
+		line2: '',
+		start: '2010-06-11 12:00:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'theentranceband.mp3',
+		minor: true
+	},
+
+	42: {
+		id: 42,
+		venueId: 2,
+		line1: 'The Gaslight Anthem',
+		line2: '',
+		start: '2010-06-11 13:45:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	11: {
+		id: 11,
+		venueId: 3,
+		line1: 'The Gossip',
+		line2: '',
+		start: '2010-06-11 15:15:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	305: {
+		id: 305,
+		venueId: 9,
+		line1: 'The Hangover',
+		line2: '',
+		start: '2010-06-11 00:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	325: {
+		id: 325,
+		venueId: 9,
+		line1: 'The Hangover',
+		line2: '',
+		start: '2010-06-12 22:30:00',
+		duration: 110,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	17: {
+		id: 17,
+		venueId: 3,
+		line1: 'The Melvins',
+		line2: '',
+		start: '2010-06-12 17:15:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	193: {
+		id: 193,
+		venueId: 10,
+		line1: 'The Middle East',
+		line2: '',
+		start: '2010-06-12 18:40:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	183: {
+		id: 183,
+		venueId: 10,
+		line1: 'The Moondoggies',
+		line2: '',
+		start: '2010-06-11 18:40:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	40: {
+		id: 40,
+		venueId: 2,
+		line1: 'The National',
+		line2: '',
+		start: '2010-06-11 17:45:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'thenational64.mp3',
+		minor: false
+	},
+
+	58: {
+		id: 58,
+		venueId: 4,
+		line1: 'The Nitty Gritty Dirt Band',
+		line2: '',
+		start: '2010-06-11 17:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'nittygrittydirtband.mp3',
+		minor: false
+	},
+
+	220: {
+		id: 220,
+		venueId: 11,
+		line1: 'The Poetix Vanguard',
+		line2: 'Poetix Vanguard',
+		start: '2010-06-10 21:30:00',
+		duration: 15,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	228: {
+		id: 228,
+		venueId: 11,
+		line1: 'The Poetix Vanguard',
+		line2: '',
+		start: '2010-06-11 14:30:00',
+		duration: 15,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	234: {
+		id: 234,
+		venueId: 11,
+		line1: 'The Poetix Vanguard',
+		line2: '',
+		start: '2010-06-11 22:15:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	245: {
+		id: 245,
+		venueId: 11,
+		line1: 'The Poetix Vanguard',
+		line2: '',
+		start: '2010-06-12 14:30:00',
+		duration: 15,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	249: {
+		id: 249,
+		venueId: 11,
+		line1: 'The Poetix Vanguard',
+		line2: '',
+		start: '2010-06-12 17:45:00',
+		duration: 15,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	254: {
+		id: 254,
+		venueId: 11,
+		line1: 'The Poetix Vanguard',
+		line2: '',
+		start: '2010-06-12 22:15:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	263: {
+		id: 263,
+		venueId: 11,
+		line1: 'The Poetix Vanguard',
+		line2: '',
+		start: '2010-06-13 14:30:00',
+		duration: 15,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	267: {
+		id: 267,
+		venueId: 11,
+		line1: 'The Poetix Vanguard',
+		line2: '',
+		start: '2010-06-13 17:45:00',
+		duration: 15,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	54: {
+		id: 54,
+		venueId: 4,
+		line1: 'The Postelles',
+		line2: '',
+		start: '2010-06-10 16:15:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	150: {
+		id: 150,
+		venueId: 6,
+		line1: 'The Postelles',
+		line2: '',
+		start: '2010-06-12 12:45:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	310: {
+		id: 310,
+		venueId: 9,
+		line1: 'The Raspberry Brothers:  Footloose',
+		line2: '',
+		start: '2010-06-11 14:40:00',
+		duration: 125,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	304: {
+		id: 304,
+		venueId: 9,
+		line1: 'The Raspberry Brothers:  The Karate Kid',
+		line2: '',
+		start: '2010-06-10 21:30:00',
+		duration: 145,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	178: {
+		id: 178,
+		venueId: 8,
+		line1: 'The RBC',
+		line2: '',
+		start: '2010-06-11 14:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	322: {
+		id: 322,
+		venueId: 9,
+		line1: 'The Secret To A Happy Ending (Drive-By Truckers Doc)',
+		line2: '',
+		start: '2010-06-12 18:05:00',
+		duration: 105,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	50: {
+		id: 50,
+		venueId: 4,
+		line1: 'The Temper Trap',
+		line2: '',
+		start: '2010-06-10 22:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	333: {
+		id: 333,
+		venueId: 9,
+		line1: 'The White Stripes:  Under Great White Northern Lights',
+		line2: '',
+		start: '2010-06-13 19:00:00',
+		duration: 95,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	214: {
+		id: 214,
+		venueId: 11,
+		line1: 'The WildRovers',
+		line2: '',
+		start: '2010-06-10 14:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	242: {
+		id: 242,
+		venueId: 11,
+		line1: 'The WildRovers',
+		line2: '',
+		start: '2010-06-12 11:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	49: {
+		id: 49,
+		venueId: 4,
+		line1: 'The xx',
+		line2: '',
+		start: '2010-06-10 23:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'thexx_basicspace64.mp3',
+		minor: false
+	},
+
+	102: {
+		id: 102,
+		venueId: 5,
+		line1: 'They Might Be Giants',
+		line2: '',
+		start: '2010-06-13 16:30:00',
+		duration: 75,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'theymightbegiants.mp3',
+		minor: false
+	},
+
+	73: {
+		id: 73,
+		venueId: 4,
+		line1: 'Thievery Corporation',
+		line2: '',
+		start: '2010-06-13 00:00:00',
+		duration: 135,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	134: {
+		id: 134,
+		venueId: 13,
+		line1: 'Timo Maas',
+		line2: '',
+		start: '2010-06-13 04:00:00',
+		duration: 120,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	79: {
+		id: 79,
+		venueId: 2,
+		line1: 'Tinariwen',
+		line2: '',
+		start: '2010-06-13 12:00:00',
+		duration: 45,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'tinariwenlulla.mp3',
+		minor: false
+	},
+
+	174: {
+		id: 174,
+		venueId: 10,
+		line1: 'Tiny Animals',
+		line2: '',
+		start: '2010-06-10 20:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	13: {
+		id: 13,
+		venueId: 5,
+		line1: 'Tokyo Police Club',
+		line2: '',
+		start: '2010-06-11 13:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'tokyopoliceclub.mp3',
+		minor: false
+	},
+
+	6: {
+		id: 6,
+		venueId: 3,
+		line1: 'Tori Amos',
+		line2: '',
+		start: '2010-06-11 18:45:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	43: {
+		id: 43,
+		venueId: 2,
+		line1: 'Trombone Shorty & Orleans Avenue',
+		line2: '',
+		start: '2010-06-11 12:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'tromboneshorty.mp3',
+		minor: false
+	},
+
+	190: {
+		id: 190,
+		venueId: 10,
+		line1: 'Truth & Salvage Co.',
+		line2: '',
+		start: '2010-06-12 14:40:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	159: {
+		id: 159,
+		venueId: 6,
+		line1: 'Truth & Salvage Co.',
+		line2: '',
+		start: '2010-06-13 11:30:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	41: {
+		id: 41,
+		venueId: 2,
+		line1: 'Umphrey\'s McGee',
+		line2: '',
+		start: '2010-06-11 15:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	146: {
+		id: 146,
+		venueId: 6,
+		line1: 'Umphrey\'s McGee',
+		line2: '',
+		start: '2010-06-11 17:45:00',
+		duration: 30,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	1: {
+		id: 1,
+		venueId: 3,
+		line1: 'Wale',
+		line2: '',
+		start: '2010-06-11 00:00:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: 'wale.mp3',
+		minor: false
+	},
+
+	186: {
+		id: 186,
+		venueId: 10,
+		line1: 'Warpaint',
+		line2: '',
+		start: '2010-06-11 23:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	76: {
+		id: 76,
+		venueId: 2,
+		line1: 'Ween',
+		line2: '',
+		start: '2010-06-13 17:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	48: {
+		id: 48,
+		venueId: 2,
+		line1: 'Weezer',
+		line2: '',
+		start: '2010-06-12 19:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	307: {
+		id: 307,
+		venueId: 9,
+		line1: 'When You\'re Strange: A Film About The Doors',
+		line2: '',
+		start: '2010-06-11 03:45:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	321: {
+		id: 321,
+		venueId: 9,
+		line1: 'When You\'re Strange: A Film About The Doors',
+		line2: '',
+		start: '2010-06-12 16:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	138: {
+		id: 138,
+		venueId: 13,
+		line1: 'World Cup:  England v. USA',
+		line2: '',
+		start: '2010-06-12 13:30:00',
+		duration: 105,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	274: {
+		id: 274,
+		venueId: 13,
+		line1: 'World Cup:  Germany v. Australia',
+		line2: '',
+		start: '2010-06-13 13:30:00',
+		duration: 105,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	179: {
+		id: 179,
+		venueId: 10,
+		line1: 'Young Veins',
+		line2: '',
+		start: '2010-06-11 13:20:00',
+		duration: 50,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	35: {
+		id: 35,
+		venueId: 1,
+		line1: 'Zac Brown Band',
+		line2: '',
+		start: '2010-06-13 18:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false
+	},
+
+	316: {
+		id: 316,
+		venueId: 9,
+		line1: 'Zombieland',
+		line2: '',
+		start: '2010-06-12 00:45:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	303: {
+		id: 303,
+		venueId: 9,
+		line1: '[adult swim]’s Aqua Teen Hunger Force',
+		line2: '',
+		start: '2010-06-10 19:40:00',
+		duration: 110,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	324: {
+		id: 324,
+		venueId: 9,
+		line1: '[adult swim]’s Childrens Hospital',
+		line2: '',
+		start: '2010-06-12 21:00:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	313: {
+		id: 313,
+		venueId: 9,
+		line1: '[adult swim]’s Childrens Hospital Live',
+		line2: '',
+		start: '2010-06-11 20:30:00',
+		duration: 60,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	314: {
+		id: 314,
+		venueId: 9,
+		line1: '[adult swim]’s Robot Chicken',
+		line2: '',
+		start: '2010-06-11 21:30:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	},
+
+	332: {
+		id: 332,
+		venueId: 9,
+		line1: '[adult swim]’s Tim and Eric and Check It Out',
+		line2: '',
+		start: '2010-06-13 17:20:00',
+		duration: 90,
+		imageUrl: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true
+	}
+
+}
