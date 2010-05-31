@@ -12,7 +12,7 @@ Brief overview of contents:
 Tested on a motorola droid running 2.1
 Developed with the 2.1 sdk with a 1.5 target
 
-"python parser.py" must be run from ./scraper to populate db before running the android project
+"python scraper.py" must be run from ./scraper to populate db before running the android project
 
 If eclipse is not recognizing the phone, try running:
 sudo /home/brian/android/tools/adb kill-server
