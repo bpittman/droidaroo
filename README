@@ -1,0 +1,20 @@
+Droidaroo is an attempt to create an Android app to view the Bonnaroo 2010 music festival schedule.
+
+This is my first real exposure to android/java/json/sql so it is very much a work in progress. YMMV etc
+
+Brief overview of contents:
+  scraper: creates an sqlite3 db of schedule data scraped from bonnaroo.com
+    venues.txt: raw JSON data copied from http://mindreader.bonnaroo.com/bonnaroo-2010-schedule.html
+    events.txt: raw JSON data copied from http://mindreader.bonnaroo.com/bonnaroo-2010-schedule.html
+    parser.py: uses demjson to decode the JSON and write it into an sqlite3 DB in ../droidaroo/res/raw/eventdb
+  droidaroo: contains the android project itself
+
+Tested on a motorola droid running 2.1
+Developed with the 2.1 sdk with a 1.5 target
+
+"python parser.py" must be run from ./scraper to populate db before running the android project
+
+If eclipse is not recognizing the phone, try running:
+sudo /home/brian/android/tools/adb kill-server
+sudo /home/brian/android/tools/adb start-server
+
