@@ -56,8 +56,7 @@ public class Droidaroo extends Activity {
         Button todayButton = (Button)findViewById(R.id.today);
         todayButton.setOnClickListener(mTodayListener);
 
-        DataBaseHelper myDbHelper = new DataBaseHelper(getBaseContext());
-        myDbHelper = new DataBaseHelper(this);
+        DataBaseHelper myDbHelper = new DataBaseHelper(this);
  
         try {
         	myDbHelper.createDataBase();

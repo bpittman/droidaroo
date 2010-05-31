@@ -4,6 +4,7 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.database.Cursor;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -116,8 +117,10 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 
 	}
 
-	// Add your public helper methods to access and get content from the database.
-	// You could return cursors by doing "return myDataBase.query(....)" so it'd be easy
-	// to you to create adapters for your views.
+	public Cursor getBands() {
+		return myDataBase.query("events", new String[] {"_id","venueId","line1",
+				"line2","start","duration"}, null, null, null, null, null);
+	}
+
 }
 
