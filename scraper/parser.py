@@ -9,13 +9,17 @@ venues = {}
 for venueID in rawVenues:
    venues[rawVenues[venueID]["id"]] = rawVenues[venueID]["line1"]
 
-conn = sqlite3.connect('./eventDB')
+conn = sqlite3.connect('../droidaroo/res/raw/eventdb')
 c = conn.cursor()
 
 # Create table
+c.execute('drop table if exists android_metadata')
+c.execute('create table android_metadata ("locale" TEXT DEFAULT "en_US")')
+c.execute('insert into android_metadata values ("en_US")')
+
 c.execute('drop table if exists events')
 c.execute('''create table events
-(id int, venueId int,
+(_id int, venueId int,
 line1 text, line2 text,
 start text, duration text)''')
 
