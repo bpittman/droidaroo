@@ -5,6 +5,9 @@ import android.widget.Button;
 import android.view.View;
 import android.os.Bundle;
 import android.content.Intent;
+import android.database.sqlite.SQLiteException;
+
+import java.io.IOException;
 
 public class Droidaroo extends Activity {
     private View.OnClickListener mBandsListener = new View.OnClickListener() {
@@ -53,5 +56,18 @@ public class Droidaroo extends Activity {
         Button todayButton = (Button)findViewById(R.id.today);
         todayButton.setOnClickListener(mTodayListener);
 
+        DataBaseHelper myDbHelper = new DataBaseHelper(getBaseContext());
+        myDbHelper = new DataBaseHelper(this);
+ 
+        try {
+        	myDbHelper.createDataBase();
+        } catch (IOException ioe) {
+        	throw new Error("Unable to create database");
+        }
+        try {
+        	myDbHelper.openDataBase();
+        }catch(SQLiteException sqle){
+        	throw sqle;
+        }
     }
 }
