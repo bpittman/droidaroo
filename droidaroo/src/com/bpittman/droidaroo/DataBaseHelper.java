@@ -118,8 +118,7 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 	}
 
 	public Cursor getBands() {
-		return myDataBase.query("events", new String[] {"_id","venueId","line1",
-				"line2","start","duration"}, null, null, null, null, null);
+		return myDataBase.query(true,"events", new String[] {"_id","line1"}, null, null, null, null, "line1", null);
 	}
 
 }
