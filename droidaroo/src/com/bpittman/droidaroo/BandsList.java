@@ -38,8 +38,8 @@ public class BandsList extends ListActivity {
         Cursor c = myDbHelper.getBands();
         startManagingCursor(c);
 
-        String[] from = new String[] { "line1" };
-        int[] to = new int[] { R.id.text1 };
+        String[] from = new String[] { "line1", "venueId", "start" };
+        int[] to = new int[] { R.id.text1, R.id.text2, R.id.text3 };
 
         // Now create an array adapter and set it to display using our row
         SimpleCursorAdapter bands =
