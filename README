@@ -18,3 +18,18 @@ If eclipse is not recognizing the phone, try running:
 sudo /home/brian/android/tools/adb kill-server
 sudo /home/brian/android/tools/adb start-server
 
+TODO:
+Refactor activities: may only need one menu activity, one eventList activity, and one detailedListing activity
+Detailed listings when you click on a result (all shows by that band, wiki link, pic, etc...)
+Shows by day
+Options/settings activities (home button, search button...)
+Restrict search to certain stages (or toggle between main stage listing and all stage listings?)
+Persistent settings
+Auto-Scroll list to current time
+Show time in friendlier formats (am/pm, 28 minutes from now, 2 hours ago, colorcoded past/future)
+Search
+Map (scroll, zoom, pinch zoom?)
+Icon
+Update db capability or host it remotely
+Make a custom schedule/notifications
+Get on market
