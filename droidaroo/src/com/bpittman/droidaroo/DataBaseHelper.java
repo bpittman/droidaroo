@@ -34,17 +34,18 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 	public void createDataBase() throws IOException{
 		boolean dbExist = checkDataBase();
 		if(dbExist){
-			//do nothing - database already exist
-		}else{
-			//By calling this method and empty database will be created into the default system path
-			//of your application so we are gonna be able to overwrite that database with our database.
-			this.getReadableDatabase();
-			try {
-				copyDataBase();
-			} catch (IOException e) {
-				throw new Error("Error copying database");
-			}
+			//delete and recreate the DB every time... inefficient but easier than using onUpgrade
+			this.myContext.deleteDatabase(DB_NAME);
 		}
+		//By calling this method and empty database will be created into the default system path
+		//of your application so we are gonna be able to overwrite that database with our database.
+		this.getReadableDatabase();
+		try {
+			copyDataBase();
+		} catch (IOException e) {
+			throw new Error("Error copying database");
+		}
+
 	}
 
 	/**
@@ -121,5 +122,8 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 		return myDataBase.query(true,"events", new String[] {"_id","line1","venueId","start"}, null, null, null, null, "start", null);
 	}
 
+	public Cursor getVenues() {
+		return myDataBase.query(true,"venues", new String[] {"_id","venueId"}, null, null, null, null, "_id", null);
+	}
 }
 
