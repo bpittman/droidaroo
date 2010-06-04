@@ -118,8 +118,19 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 
 	}
 
-	public Cursor getBands() {
-		return myDataBase.query(true,"events", new String[] {"_id","line1","venueId","start"}, null, null, null, null, "start", null);
+	public Cursor getBands(String day, String venue) {
+		String venueWhere;
+		if(venue=="Major Stages") {
+			venueWhere = "minor=0";
+		}
+		else if(venue=="All Stages") {
+			venueWhere = null;
+		}
+		else {
+			venueWhere = "venueId='"+venue+"'";
+		}
+		return myDataBase.query(true,"events", new String[] {"_id","line1","venueId","start","minor"}, 
+				venueWhere, null, null, null, "start", null);
 	}
 
 	public Cursor getVenues() {

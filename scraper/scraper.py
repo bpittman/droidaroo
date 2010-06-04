@@ -21,13 +21,13 @@ c.execute('drop table if exists events')
 c.execute('''create table events
 (_id int, venueId text,
 line1 text, line2 text,
-start text, duration text)''')
+start text, duration text, minor bool)''')
 
 for eventID in events:
    t = (eventID,venues[events[eventID]["venueId"]],
         events[eventID]["line1"],events[eventID]["line2"],
-        events[eventID]["start"],events[eventID]["duration"])
-   c.execute('insert into events values (?,?,?,?,?,?)',t)
+        events[eventID]["start"],events[eventID]["duration"],bool(events[eventID]["minor"]))
+   c.execute('insert into events values (?,?,?,?,?,?,?)',t)
 
 c.execute('drop table if exists venues')
 c.execute('create table venues (_id int, venueId text)')
