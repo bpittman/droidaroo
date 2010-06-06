@@ -32,20 +32,24 @@ c.execute('drop table if exists events')
 c.execute('''create table events
 (_id int, venueId text,
 line1 text, line2 text,
-start text, duration text, minor bool,
-day text)''')
+fulltime text, stringtime text,
+minor bool, day text)''')
 
 for eventID in events:
-   startTime = time.strptime(events[eventID]["start"], "%Y-%m-%d %H:%M:%S")
-   if startTime < friStart: day = "Thursday"
-   elif startTime < satStart: day = "Friday"
-   elif startTime < sunStart: day = "Saturday"
+   fullTime = time.strptime(events[eventID]["start"], "%Y-%m-%d %H:%M:%S")
+   if fullTime < friStart: day = "Thursday"
+   elif fullTime < satStart: day = "Friday"
+   elif fullTime < sunStart: day = "Saturday"
    else: day = "Sunday"
+   startTime = time.strftime("%I:%M%p",fullTime)
+   intTime = time.mktime(fullTime)
+   intTime += events[eventID]["duration"]*60
+   endTime = time.strftime("%I:%M%p",time.localtime(intTime))
 
    t = (eventID,venues[events[eventID]["venueId"]],
         events[eventID]["line1"],events[eventID]["line2"],
-        events[eventID]["start"],events[eventID]["duration"],bool(events[eventID]["minor"]),
-        day)
+        events[eventID]["start"],startTime+'-'+endTime,
+        bool(events[eventID]["minor"]),day)
    c.execute('insert into events values (?,?,?,?,?,?,?,?)',t)
 
 c.execute('drop table if exists venues')

@@ -77,8 +77,8 @@ public class BandsList extends ListActivity {
         Cursor c = myDbHelper.getBands(dayValue, venueValue);
         startManagingCursor(c);
 
-        String[] from = new String[] { "line1", "venueId", "start" };
-        int[] to = new int[] { R.id.text1, R.id.text2, R.id.text3 };
+        String[] from = new String[] { "line1", "venueId", "day", "stringtime" };
+        int[] to = new int[] { R.id.text1, R.id.text2, R.id.text3, R.id.text4 };
 
         // Now create an array adapter and set it to display using our row
         SimpleCursorAdapter bands =

@@ -149,8 +149,8 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 			where=dayWhere;
 		}
 
-		return myDataBase.query(true,"events", new String[] {"_id","line1","venueId","start","minor","day"}, 
-				where, null, null, null, "start", null);
+		return myDataBase.query(true,"events", new String[] {"_id","line1","venueId","fulltime","stringtime","minor","day"}, 
+				where, null, null, null, "fulltime", null);
 	}
 
 	public Cursor getVenues() {
