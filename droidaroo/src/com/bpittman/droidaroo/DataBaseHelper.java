@@ -119,6 +119,14 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 	}
 
 	public Cursor getBands(String day, String venue) {
+		String dayWhere;
+		if(day=="All Days") {
+			dayWhere = null;
+		}
+		else {
+			dayWhere = "day='"+day+"'";
+		}
+
 		String venueWhere;
 		if(venue=="Major Stages") {
 			venueWhere = "minor=0";
@@ -129,8 +137,20 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 		else {
 			venueWhere = "venueId='"+venue+"'";
 		}
-		return myDataBase.query(true,"events", new String[] {"_id","line1","venueId","start","minor"}, 
-				venueWhere, null, null, null, "start", null);
+
+		String where = null;
+		if(venueWhere!=null && dayWhere!=null) {
+			where=dayWhere+" and "+venueWhere;
+		}
+		else if(venueWhere!=null && dayWhere==null) {
+			where=venueWhere;
+		}
+		else if(venueWhere==null && dayWhere!=null) {
+			where=dayWhere;
+		}
+
+		return myDataBase.query(true,"events", new String[] {"_id","line1","venueId","start","minor","day"}, 
+				where, null, null, null, "start", null);
 	}
 
 	public Cursor getVenues() {

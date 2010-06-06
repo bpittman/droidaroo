@@ -1,6 +1,17 @@
 # -*- coding: utf-8 -*-
 import demjson
 import sqlite3
+import datetime,time
+import re
+
+#we want late-night shows to be considered part of the previous day.
+#for instance a show that begins at 2am on Friday should actually be
+#listed as a Thursday show. So we count anything prior to 9am as
+#belonging to the prior day.
+thursStart = time.strptime("2010-06-10 09:00:00", "%Y-%m-%d %H:%M:%S")
+friStart = time.strptime("2010-06-11 09:00:00", "%Y-%m-%d %H:%M:%S")
+satStart = time.strptime("2010-06-12 09:00:00", "%Y-%m-%d %H:%M:%S")
+sunStart = time.strptime("2010-06-13 09:00:00", "%Y-%m-%d %H:%M:%S")
 
 rawVenues = demjson.decode(open("venues.txt").read())
 events = demjson.decode(open("events.txt").read())
@@ -21,13 +32,21 @@ c.execute('drop table if exists events')
 c.execute('''create table events
 (_id int, venueId text,
 line1 text, line2 text,
-start text, duration text, minor bool)''')
+start text, duration text, minor bool,
+day text)''')
 
 for eventID in events:
+   startTime = time.strptime(events[eventID]["start"], "%Y-%m-%d %H:%M:%S")
+   if startTime < friStart: day = "Thursday"
+   elif startTime < satStart: day = "Friday"
+   elif startTime < sunStart: day = "Saturday"
+   else: day = "Sunday"
+
    t = (eventID,venues[events[eventID]["venueId"]],
         events[eventID]["line1"],events[eventID]["line2"],
-        events[eventID]["start"],events[eventID]["duration"],bool(events[eventID]["minor"]))
-   c.execute('insert into events values (?,?,?,?,?,?,?)',t)
+        events[eventID]["start"],events[eventID]["duration"],bool(events[eventID]["minor"]),
+        day)
+   c.execute('insert into events values (?,?,?,?,?,?,?,?)',t)
 
 c.execute('drop table if exists venues')
 c.execute('create table venues (_id int, venueId text)')
