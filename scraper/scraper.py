@@ -8,10 +8,10 @@ import re
 #for instance a show that begins at 2am on Friday should actually be
 #listed as a Thursday show. So we count anything prior to 9am as
 #belonging to the prior day.
-thursStart = time.strptime("2010-06-10 09:00:00", "%Y-%m-%d %H:%M:%S")
-friStart = time.strptime("2010-06-11 09:00:00", "%Y-%m-%d %H:%M:%S")
-satStart = time.strptime("2010-06-12 09:00:00", "%Y-%m-%d %H:%M:%S")
-sunStart = time.strptime("2010-06-13 09:00:00", "%Y-%m-%d %H:%M:%S")
+thursStart = time.strptime("2011-06-09 09:00:00", "%Y-%m-%d %H:%M:%S")
+friStart = time.strptime("2011-06-10 09:00:00", "%Y-%m-%d %H:%M:%S")
+satStart = time.strptime("2011-06-11 09:00:00", "%Y-%m-%d %H:%M:%S")
+sunStart = time.strptime("2011-06-12 09:00:00", "%Y-%m-%d %H:%M:%S")
 
 rawVenues = demjson.decode(open("venues.txt").read())
 events = demjson.decode(open("events.txt").read())
