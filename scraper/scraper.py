@@ -36,6 +36,12 @@ fulltime text, stringtime text,
 minor bool, day text)''')
 
 for eventID in events:
+   if events[eventID]["venueId"] == "": continue
+   if events[eventID]["line1"] == "": continue
+   if events[eventID]["start"] == "": continue
+   if events[eventID]["minor"] == "": continue
+   if events[eventID]["duration"] == "": continue
+
    fullTime = time.strptime(events[eventID]["start"], "%Y-%m-%d %H:%M:%S")
    if fullTime < friStart: day = "Thursday"
    elif fullTime < satStart: day = "Friday"
