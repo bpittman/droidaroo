@@ -55,7 +55,7 @@ for eventID in events:
    t = (eventID,venues[events[eventID]["venueId"]],
         events[eventID]["line1"],events[eventID]["line2"],
         events[eventID]["start"],startTime+'-'+endTime,
-        bool(events[eventID]["minor"]),day)
+        bool(rawVenues[events[eventID]["venueId"]]["secondary"]),day)
    c.execute('insert into events values (?,?,?,?,?,?,?,?)',t)
 
 c.execute('drop table if exists venues')
