@@ -34,6 +34,23 @@
 		primaryId: null
 	},
  
+	483: {
+		id: 483,
+		venueId: 9,
+		line1: '30 for 30: Reggie Miller vs the Knicks',
+		line2: '',
+		line3: '',
+		start: '2011-06-12 17:45:00',
+		duration: 75,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	363: {
 		id: 363,
 		venueId: 6,
@@ -66,6 +83,40 @@
 		minor: false,
 		copy:true,
 		primaryId: 363
+	},
+ 
+	477: {
+		id: 477,
+		venueId: 9,
+		line1: '8 Mile',
+		line2: '',
+		line3: '',
+		start: '2011-06-12 00:20:00',
+		duration: 110,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
+	464: {
+		id: 464,
+		venueId: 9,
+		line1: 'A Louisiana Fairytale. Feat. Danny Clinch & Jim James and the Preservation Hall Jazz Band',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 16:15:00',
+		duration: 90,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
 	},
  
 	101: {
@@ -323,6 +374,23 @@
 		primaryId: null
 	},
  
+	467: {
+		id: 467,
+		venueId: 9,
+		line1: 'Aqua Unit Patrol Squad 1 / Squidbillies from [adult swim]',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 19:45:00',
+		duration: 90,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	2: {
 		id: 2,
 		venueId: 1,
@@ -493,6 +561,23 @@
 		primaryId: null
 	},
  
+	468: {
+		id: 468,
+		venueId: 9,
+		line1: 'Bellflower',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 22:35:00',
+		duration: 110,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	89: {
 		id: 89,
 		venueId: 5,
@@ -573,23 +658,6 @@
 		imageUrl2: '',
 		detailsUrl: '',
 		soundUrl: '',
-		minor: false,
-		copy:false,
-		primaryId: null
-	},
- 
-	90: {
-		id: 90,
-		venueId: null,
-		line1: 'Black Dub',
-		line2: '',
-		line3: '',
-		start: '',
-		duration: null,
-		imageUrl: 'static/images/entities/black_dub.jpg',
-		imageUrl2: 'static/images/entities/grid/black_dub.jpg',
-		detailsUrl: '',
-		soundUrl: '28182636',
 		minor: false,
 		copy:false,
 		primaryId: null
@@ -737,8 +805,8 @@
 		line1: 'Bootsy Collins & the Funk University',
 		line2: '',
 		line3: '',
-		start: '2011-06-12 00:30:00',
-		duration: 75,
+		start: '2011-06-11 19:00:00',
+		duration: 90,
 		imageUrl: 'static/images/entities/bootsy_collins_funk_capital.jpg',
 		imageUrl2: 'static/images/entities/grid/bootsy_collins_funk_capital.jpg',
 		detailsUrl: '',
@@ -867,6 +935,40 @@
 		primaryId: null
 	},
  
+	448: {
+		id: 448,
+		venueId: 3,
+		line1: 'Childish Gambino',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 23:30:00',
+		duration: 60,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	482: {
+		id: 482,
+		venueId: 9,
+		line1: 'Childrens Hospital from [adult swim]',
+		line2: '',
+		line3: '',
+		start: '2011-06-12 16:10:00',
+		duration: 95,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	341: {
 		id: 341,
 		venueId: 10,
@@ -952,6 +1054,23 @@
 		primaryId: 109
 	},
  
+	485: {
+		id: 485,
+		venueId: 9,
+		line1: 'Coal Miner\'s Daughter',
+		line2: '',
+		line3: '',
+		start: '2011-06-12 13:50:00',
+		duration: 110,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	49: {
 		id: 49,
 		venueId: 3,
@@ -965,6 +1084,23 @@
 		detailsUrl: '',
 		soundUrl: '2472',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	459: {
+		id: 459,
+		venueId: 9,
+		line1: 'Connected: An Autobiography About Love, Death & Technology',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 12:00:00',
+		duration: 120,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -1026,7 +1162,7 @@
 		line1: 'Dãm-Funk & Master Blazter',
 		line2: '',
 		line3: '',
-		start: '2011-06-10 00:00:00',
+		start: '2011-06-10 01:00:00',
 		duration: 60,
 		imageUrl: 'static/images/entities/dam_funk.jpg',
 		imageUrl2: 'static/images/entities/grid/dam_funk.jpg',
@@ -1045,11 +1181,28 @@
 		line3: '',
 		start: '2011-06-12 15:30:00',
 		duration: 60,
+		imageUrl: 'static/images/entities/black_dub.jpg',
+		imageUrl2: 'static/images/entities/grid/black_dub.jpg',
+		detailsUrl: '',
+		soundUrl: '28182636',
+		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	461: {
+		id: 461,
+		venueId: 9,
+		line1: 'Dark Side of the Moon / Wizard of Oz',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 01:30:00',
+		duration: 125,
 		imageUrl: '',
 		imageUrl2: '',
 		detailsUrl: '',
 		soundUrl: '',
-		minor: false,
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -1145,8 +1298,8 @@
 		line1: 'Devotchka',
 		line2: '',
 		line3: '',
-		start: '2011-06-11 19:00:00',
-		duration: 90,
+		start: '2011-06-11 17:15:00',
+		duration: 75,
 		imageUrl: 'static/images/entities/devotchka.jpg',
 		imageUrl2: 'static/images/entities/grid/devotchka.jpg',
 		detailsUrl: '',
@@ -1434,7 +1587,7 @@
 		line1: 'Forro in the Dark',
 		line2: '',
 		line3: '',
-		start: '2011-06-11 12:45:00',
+		start: '2011-06-11 14:15:00',
 		duration: 60,
 		imageUrl: 'static/images/entities/forro.jpg',
 		imageUrl2: 'static/images/entities/grid/forro.jpg',
@@ -1649,6 +1802,23 @@
 		primaryId: null
 	},
  
+	472: {
+		id: 472,
+		venueId: 9,
+		line1: 'Garden State. Q&A: Zach Braff',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 14:10:00',
+		duration: 140,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	116: {
 		id: 116,
 		venueId: 10,
@@ -1662,6 +1832,23 @@
 		detailsUrl: '',
 		soundUrl: '29821339',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	480: {
+		id: 480,
+		venueId: 9,
+		line1: 'Ghostbusters',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 22:30:00',
+		duration: 85,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -1700,30 +1887,13 @@
 		primaryId: null
 	},
  
-	31: {
-		id: 31,
-		venueId: null,
-		line1: 'Global Gypsy Punk Revue curated by Eugene Hütz',
-		line2: '',
-		line3: '',
-		start: '',
-		duration: null,
-		imageUrl: '',
-		imageUrl2: '',
-		detailsUrl: '',
-		soundUrl: '28095204',
-		minor: false,
-		copy:false,
-		primaryId: null
-	},
- 
 	25: {
 		id: 25,
 		venueId: 5,
 		line1: 'Gogol Bordello',
 		line2: '',
 		line3: '',
-		start: '2011-06-12 02:15:00',
+		start: '2011-06-12 02:00:00',
 		duration: 90,
 		imageUrl: 'static/images/entities/gogol_bordello.jpg',
 		imageUrl2: 'static/images/entities/grid/gogol_bordello.jpg',
@@ -1831,23 +2001,6 @@
 		imageUrl2: 'static/images/entities/grid/gregg_allman.jpg',
 		detailsUrl: '',
 		soundUrl: '21870449',
-		minor: false,
-		copy:false,
-		primaryId: null
-	},
- 
-	96: {
-		id: 96,
-		venueId: null,
-		line1: 'Gregory Brothers',
-		line2: '',
-		line3: '',
-		start: '',
-		duration: null,
-		imageUrl: 'static/images/entities/gregory_brothers.jpg',
-		imageUrl2: 'static/images/entities/grid/gregory_brothers.jpg',
-		detailsUrl: '',
-		soundUrl: '28245343',
 		minor: false,
 		copy:false,
 		primaryId: null
@@ -1995,7 +2148,7 @@
 		line1: 'Hanggai',
 		line2: '',
 		line3: '',
-		start: '2011-06-11 14:15:00',
+		start: '2011-06-11 12:45:00',
 		duration: 60,
 		imageUrl: 'static/images/entities/hanggai.jpg',
 		imageUrl2: 'static/images/entities/grid/hanggai.jpg',
@@ -2019,6 +2172,23 @@
 		detailsUrl: '',
 		soundUrl: '26624605',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	471: {
+		id: 471,
+		venueId: 9,
+		line1: 'Harold & Maude',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 10:25:00',
+		duration: 95,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -2087,6 +2257,23 @@
 		detailsUrl: '',
 		soundUrl: '',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	462: {
+		id: 462,
+		venueId: 9,
+		line1: 'Heavy Metal Parking Lot',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 03:35:00',
+		duration: 25,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -2216,7 +2403,7 @@
 		line1: 'J. Cole',
 		line2: '',
 		line3: '',
-		start: '2011-06-09 21:00:00',
+		start: '2011-06-09 20:30:00',
 		duration: 60,
 		imageUrl: 'static/images/entities/jcole.jpg',
 		imageUrl2: 'static/images/entities/grid/jcole.jpg',
@@ -2448,6 +2635,23 @@
 		primaryId: null
 	},
  
+	456: {
+		id: 456,
+		venueId: 9,
+		line1: 'Kareem- On the Shoulders of Giants:  Intro and Q&A by Kareem Abdul-Jabbar',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 12:00:00',
+		duration: 130,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	85: {
 		id: 85,
 		venueId: 5,
@@ -2635,6 +2839,23 @@
 		primaryId: 365
 	},
  
+	460: {
+		id: 460,
+		venueId: 9,
+		line1: 'Life In A Day',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 14:00:00',
+		duration: 135,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	7: {
 		id: 7,
 		venueId: 2,
@@ -2665,6 +2886,40 @@
 		detailsUrl: '',
 		soundUrl: '26891039',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	470: {
+		id: 470,
+		venueId: 9,
+		line1: 'Long Live Lumet: Dog Day Afternoon',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 04:30:00',
+		duration: 125,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
+	479: {
+		id: 479,
+		venueId: 9,
+		line1: 'Long Live Lumet: Serpico',
+		line2: '',
+		line3: '',
+		start: '2011-06-12 03:50:00',
+		duration: 130,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -2924,6 +3179,40 @@
 		primaryId: null
 	},
  
+	455: {
+		id: 455,
+		venueId: 9,
+		line1: 'NBA Finals Game 5',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 20:00:00',
+		duration: 150,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
+	484: {
+		id: 484,
+		venueId: 9,
+		line1: 'NBA Finals Game 6 (if necessary)',
+		line2: '',
+		line3: '',
+		start: '2011-06-12 19:00:00',
+		duration: 150,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	53: {
 		id: 53,
 		venueId: 3,
@@ -2941,10 +3230,27 @@
 		primaryId: null
 	},
  
+	478: {
+		id: 478,
+		venueId: 9,
+		line1: 'New Jack City',
+		line2: '',
+		line3: '',
+		start: '2011-06-12 02:10:00',
+		duration: 100,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	355: {
 		id: 355,
 		venueId: 7,
-		line1: 'New Orleans Allstars feat. Jamie McLean, Terence Higgins, Kirk Joseph and many more',
+		line1: 'New Orleans Allstars feat. Jamie McLean, Ivan Neville, Terence Higgins, Kirk Joseph and many more',
 		line2: 'New Orleans Allstars',
 		line3: '',
 		start: '2011-06-10 12:15:00',
@@ -3032,8 +3338,8 @@
 		line1: 'Omar Souleyman',
 		line2: '',
 		line3: '',
-		start: '2011-06-11 17:15:00',
-		duration: 75,
+		start: '2011-06-12 00:30:00',
+		duration: 60,
 		imageUrl: 'static/images/entities/omar.jpg',
 		imageUrl2: 'static/images/entities/grid/omar.jpg',
 		detailsUrl: '',
@@ -3056,6 +3362,23 @@
 		detailsUrl: '',
 		soundUrl: '7498013',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	451: {
+		id: 451,
+		venueId: 9,
+		line1: 'Over The Top',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 12:00:00',
+		duration: 95,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -3111,14 +3434,48 @@
 		primaryId: null
 	},
  
+	481: {
+		id: 481,
+		venueId: 9,
+		line1: 'Portugal. The Man "Sleep Forever..."',
+		line2: '',
+		line3: '',
+		start: '2011-06-12 15:40:00',
+		duration: 30,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
+	453: {
+		id: 453,
+		venueId: 9,
+		line1: 'Poster Girl',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 17:30:00',
+		duration: 40,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	20: {
 		id: 20,
 		venueId: 4,
 		line1: 'Pretty Lights',
 		line2: '',
 		line3: '',
-		start: '2011-06-11 02:00:00',
-		duration: 90,
+		start: '2011-06-11 02:15:00',
+		duration: 135,
 		imageUrl: 'static/images/entities/pretty_lights.jpg',
 		imageUrl2: 'static/images/entities/grid/pretty_lights.jpg',
 		detailsUrl: '',
@@ -3219,7 +3576,7 @@
 		line1: 'River City Extension',
 		line2: '',
 		line3: '',
-		start: '2011-06-09 16:30:00',
+		start: '2011-06-09 16:00:00',
 		duration: 60,
 		imageUrl: 'static/images/entities/river_city_extension.jpg',
 		imageUrl2: 'static/images/entities/grid/river_city_extension.jpg',
@@ -3243,6 +3600,23 @@
 		detailsUrl: '',
 		soundUrl: '27214763',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	475: {
+		id: 475,
+		venueId: 9,
+		line1: 'Robot Chicken from [adult swim]',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 20:50:00',
+		duration: 90,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -3451,6 +3825,23 @@
 		primaryId: 74
 	},
  
+	450: {
+		id: 450,
+		venueId: 3,
+		line1: 'Rolling Stone & Garnier Fructis present:  you choose the cover.... Lelia Broussard Vs The Sheepdogs',
+		line2: 'You choose the cover.... Lelia Broussard Vs The Sheepdogs',
+		line3: '',
+		start: '2011-06-11 14:00:00',
+		duration: 60,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
 	134: {
 		id: 134,
 		venueId: 10,
@@ -3498,6 +3889,23 @@
 		detailsUrl: '',
 		soundUrl: '',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	476: {
+		id: 476,
+		venueId: 9,
+		line1: 'Saturday Night Fever',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 22:20:00',
+		duration: 120,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -3595,11 +4003,28 @@
 		line3: '',
 		start: '2011-06-12 13:20:00',
 		duration: 50,
+		imageUrl: 'static/images/entities/shahidah_omar.jpg',
+		imageUrl2: 'static/images/entities/shahidah_omar.jpg',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	454: {
+		id: 454,
+		venueId: 9,
+		line1: 'Shampoo',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 18:10:00',
+		duration: 110,
 		imageUrl: '',
 		imageUrl2: '',
 		detailsUrl: '',
 		soundUrl: '',
-		minor: false,
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -3672,6 +4097,40 @@
 		primaryId: null
 	},
  
+	465: {
+		id: 465,
+		venueId: 9,
+		line1: 'SoLa: Louisiana Water Stories. Benjamin Jaffe, Preservation Hall Jazz Band, Jon Bowermaster & more!',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 17:45:00',
+		duration: 120,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
+	473: {
+		id: 473,
+		venueId: 9,
+		line1: 'Special Screening: 30 Minutes or Less. Q&A: Aziz Ansari',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 16:30:00',
+		duration: 125,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	8: {
 		id: 8,
 		venueId: 2,
@@ -3702,6 +4161,23 @@
 		detailsUrl: '',
 		soundUrl: '29492150',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	457: {
+		id: 457,
+		venueId: 9,
+		line1: 'Superjail from [adult swim]',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 23:55:00',
+		duration: 95,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -3916,13 +4392,47 @@
 		line1: 'The Knux',
 		line2: '',
 		line3: '',
-		start: '2011-06-09 19:30:00',
+		start: '2011-06-09 19:00:00',
 		duration: 60,
 		imageUrl: 'static/images/entities/the_knux.jpg',
 		imageUrl2: 'static/images/entities/grid/the_knux.jpg',
 		detailsUrl: '',
 		soundUrl: '21179087',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	463: {
+		id: 463,
+		venueId: 9,
+		line1: 'The Last Detail',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 04:00:00',
+		duration: 115,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
+	458: {
+		id: 458,
+		venueId: 9,
+		line1: 'The Last Mountain. Film Intro and Q&A by Robert F. Kennedy, Jr. and Bill Haney',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 15:00:00',
+		duration: 150,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -3961,6 +4471,23 @@
 		primaryId: 371
 	},
  
+	466: {
+		id: 466,
+		venueId: 9,
+		line1: 'The League. Intros: Jon LaJoie, Nick Kroll, Steve Rannazzisi & Paul Scheer',
+		line2: '',
+		line3: '',
+		start: '2011-06-10 21:15:00',
+		duration: 80,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	79: {
 		id: 79,
 		venueId: 4,
@@ -3974,6 +4501,23 @@
 		detailsUrl: '',
 		soundUrl: '21059760',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	452: {
+		id: 452,
+		venueId: 9,
+		line1: 'The Naked Gun',
+		line2: '',
+		line3: '',
+		start: '2011-06-09 13:35:00',
+		duration: 85,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -4080,6 +4624,23 @@
 		primaryId: null
 	},
  
+	449: {
+		id: 449,
+		venueId: 10,
+		line1: 'The Uncalled For ',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 00:00:00',
+		duration: 50,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
 	50: {
 		id: 50,
 		venueId: 4,
@@ -4131,6 +4692,23 @@
 		primaryId: 137
 	},
  
+	469: {
+		id: 469,
+		venueId: 9,
+		line1: 'The Whole Bloody Affair',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 00:25:00',
+		duration: 245,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
+		copy:false,
+		primaryId: null
+	},
+ 
 	135: {
 		id: 135,
 		venueId: 10,
@@ -4154,7 +4732,7 @@
 		line1: 'Twin Shadow',
 		line2: '',
 		line3: '',
-		start: '2011-06-09 22:30:00',
+		start: '2011-06-09 22:00:00',
 		duration: 60,
 		imageUrl: 'static/images/entities/twin_shadow.jpg',
 		imageUrl2: 'static/images/entities/grid/twin_shadow.jpg',
@@ -4178,6 +4756,23 @@
 		detailsUrl: '',
 		soundUrl: '',
 		minor: false,
+		copy:false,
+		primaryId: null
+	},
+ 
+	474: {
+		id: 474,
+		venueId: 9,
+		line1: 'Vanishing of the Bees. Q&A: Director George Langworthy',
+		line2: '',
+		line3: '',
+		start: '2011-06-11 18:35:00',
+		duration: 135,
+		imageUrl: '',
+		imageUrl2: '',
+		detailsUrl: '',
+		soundUrl: '',
+		minor: true,
 		copy:false,
 		primaryId: null
 	},
@@ -4256,7 +4851,7 @@
 		line1: 'Wavves',
 		line2: '',
 		line3: '',
-		start: '2011-06-09 18:00:00',
+		start: '2011-06-09 17:30:00',
 		duration: 60,
 		imageUrl: 'static/images/entities/wavves.jpg',
 		imageUrl2: 'static/images/entities/grid/wavves.jpg',
